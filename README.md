@@ -55,7 +55,9 @@ To use the dataset:
 Install the dependencies using the `requirements.txt` file:
 
    
-   ```pip install -r requirements.txt```
+   ```bash
+     pip install -r requirements.txt
+   ```
 
 ---
 
