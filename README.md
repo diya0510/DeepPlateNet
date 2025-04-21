@@ -49,12 +49,13 @@ To use the dataset:
 - **Precision Accuracy:** 88.3%
 - **Recall:** 91.2%
 
-## 📦 Requirements
+---
+# Requirements
 
 Install the dependencies using the `requirements.txt` file:
 
-``bash
-pip install -r requirements.txt
+   
+   ```pip install -r requirements.txt```
 
 ---
 
